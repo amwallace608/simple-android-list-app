@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">List App</string>
+
+    <string-array name="items">
+        <item>SSD</item>
+        <item>GPU</item>
+        <item>CPU</item>
+        <item>Motherboard</item>
+        <item>RAM</item>
+        <item>PSU</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$119.99</item>
+        <item>$499.99</item>
+        <item>$204.99</item>
+        <item>$144.99</item>
+        <item>$127.99</item>
+        <item>$109.99</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Intel 665p M.2 2280 1TB PCIe NVME 3.0 x4 3D3, Internal SSD</item>
+        <item>GIGABYTE GeForce RTX2070 Super WINDFORCE OC, 8GB 256-bit GDDR6, GPU</item>
+        <item>AMD Ryzen 5 3600x 6-core 3.8GHz (4.4 GHz Max Boost) AM4 Processor</item>
+        <item>GIGABYTE X570 AMD Ryzen 3000 ATX Motherboard</item>
+        <item>XPG Spectrix D41 RGB 3600MHz 16GB (2x8GB) 228-Pin PC4-28800 Memory</item>
+        <item>EVGA SuperNOVA 750 GA, 80 Plus Gold 750W, Fully Modular Power Supply</item>
+    </string-array>
+
+</resources>
